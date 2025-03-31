@@ -1,4 +1,4 @@
-# JAVA TUTORIAL
+# JAVA BASIC TUTORIAL
 
 ## 1. Java - Overview
 Java is a high-level, object-oriented programming language developed by **Sun Microsystems** (now owned by Oracle). It is widely used for building applications, from web and mobile apps to large-scale enterprise systems. Java is **platform-independent**, meaning it can run on different operating systems using the **JVM (Java Virtual Machine)**.
