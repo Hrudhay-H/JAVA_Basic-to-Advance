@@ -1,6 +1,6 @@
-# JAVA_Basic-to-Advance
+# JAVA_Basic-to-Advanced
 
-Welcome to the **JAVA_basic-to-advance** repository! 🚀 This repository is designed to serve as a complete learning resource for Java, covering all the essential constructs from beginner to advanced levels. It includes well-documented code snippets along with notes and comments to help you understand each concept thoroughly.
+Welcome to the **JAVA_basic-to-advanced** repository! 🚀 This repository is designed to serve as a complete learning resource for Java, covering all the essential constructs from beginner to advanced levels. It includes well-documented code snippets along with notes and comments to help you understand each concept thoroughly.
 
 ## 📌 Repository Overview
 This repository is structured to progressively take you through Java programming concepts, making it easier to learn and reference.
