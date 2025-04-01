@@ -13,7 +13,7 @@ This repository is structured to progressively take you through Java programming
 - Control Flow (if-else, switch-case, loops)
 - Functions & Methods
 
-✅ **Object-Oriented Programming (OOPs)**
+✅ **Object-Oriented Programming ( OOPs )**
 - Classes & Objects
 - Constructors & Destructors
 - Inheritance
