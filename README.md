@@ -5,7 +5,7 @@ Welcome to the **JAVA_basic-to-advanced** repository! 🚀 This repository is de
 ## 📌 Repository Overview
 This repository is structured to progressively take you through Java programming concepts, making it easier to learn and reference.
 
-### 🔹 Topics Covered
+### 🔹 Topics Covered 
 ✅ **Basic Concepts**
 - Introduction to Java
 - Data Types & Variables
